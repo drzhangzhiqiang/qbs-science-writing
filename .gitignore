@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+.env
+.env.*
+tmp/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "QBS 科研写作"
+  short_description: "依据科研写作第二版，诊断文章结构、段落衔接与语言含义，形成可执行改写"
+  default_prompt: "请使用 $qbs-science-writing，依据《Science Research Writing》第二版的方法，先诊断文本功能与结构，再进行保持事实和原意的科研英文改写。"
